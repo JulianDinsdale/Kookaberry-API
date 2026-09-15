@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Quokka Modules'
-copyright = '2023, Quokka'
+project = 'Kookaberry API'
+copyright = '2023, Kookaberry'
 author = 'Julian Dinsdale'
 
 release = '0.1'
