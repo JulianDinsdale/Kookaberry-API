@@ -5,8 +5,7 @@ Display API
 
 Description     
                                                        
-The Display is based on the SH1106.  Monotone , Cyan, x = 0to 127, y= 0 to 63 
-Specification
+The Display is based on the SH1106.  Monotone , Cyan, x = 0 to 127, y= 0 to 63 
 
 	
 display.init_display()
@@ -24,3 +23,7 @@ display.setfont(font)
 								fonts.sans12
 
 							Note:  Need to import fonts
+
+
+							
+
