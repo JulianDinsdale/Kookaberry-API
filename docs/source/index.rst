@@ -13,7 +13,6 @@ Contents
 .. toctree::
 
     display.rst
-    dummy.rst
 
 :Copyright:
 
